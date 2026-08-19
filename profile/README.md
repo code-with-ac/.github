@@ -10,4 +10,4 @@ Code with AC is a practical learning platform built to support the teaching and 
 - Unity Skill Tree
 - Resource Repo
 
-Have a look at https://codewith-ac.uk to get started
+Have a look at https://codewithac.com to get started
